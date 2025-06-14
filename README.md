@@ -1,9 +1,8 @@
-##rustify home evaluator
+# rustify home evaluator
 
 a simple CLI property manager written in Rust. this project was built to practice the fundamentals covered in the first nine chapters of *the rust programming language*.
 
-
-##features
+## features
 
 - add new properties with:
   - total square meters
@@ -18,13 +17,11 @@ a simple CLI property manager written in Rust. this project was built to practic
 - filter by number of bedrooms (≥ 3)
 - delete a property by its index
 
-
-##prerequisites
+## prerequisites
 
 - [rust and cargo](https://www.rust-lang.org/tools/install) installed
 
-
-##installation
+## installation
 
 ```bash
 git clone https://github.com/mikel0x/rustify_home_eval.git
