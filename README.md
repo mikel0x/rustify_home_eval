@@ -1,4 +1,4 @@
-R U S T I F Y   H O M E   E V A L U A T O R
+              R U S T I F Y   H O M E   E V A L U A T O R
 
                       (c) 2025 by mikel0x
          built as a study project for chapters 1–9 of The Rust Book
