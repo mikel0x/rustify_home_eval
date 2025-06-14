@@ -2,6 +2,7 @@
 
 a simple CLI property manager written in Rust. this project was built to practice the fundamentals covered in the first nine chapters of *the rust programming language*.
 
+
 ## Features
 
 - add new properties with:
@@ -17,9 +18,11 @@ a simple CLI property manager written in Rust. this project was built to practic
 - filter by number of bedrooms (≥ 3)
 - delete a property by its index
 
+
 ## prerequisites
 
 - [rust and cargo](https://www.rust-lang.org/tools/install) installed
+
 
 ## installation
 
