@@ -1,4 +1,4 @@
-# Rustify Home Evaluator
+# rustify home evaluator
 
 a simple CLI property manager written in Rust. this project was built to practice the fundamentals covered in the first nine chapters of *the rust programming language*.
 
